@@ -2,6 +2,7 @@
 Last Update : 08 Desember 2025
 
 ## Changelog
+
 **{ * } <Update> :**
 
 Fix FFMPEG because Crashing Discord
