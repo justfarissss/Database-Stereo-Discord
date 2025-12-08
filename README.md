@@ -1,12 +1,12 @@
 # STEREO DISCORD
-Last Update : 06 Desember 2025
+Last Update : 08 Desember 2025
 
 ## Changelog
-**{ * } <Memper Baiki Crash> :**
-```
-Crash terjadi karena FFMPEG terjadi error, makannya saya menggunakan FFMPEG yang saya update ini agar tidak crash discord nya!
-```
-**{ * } <Not Using BD & Vencord> :**
-```
-Sekarang tidak usah lagi menggunakan Batterdiscord dan juga Vencord, karena sudah bisa langsung stereo dan ini RAW Audio!
-```
+**{ * } <Update> :**
+
+Fix FFMPEG because Crashing Discord
+Stereo RAW Microphone
+Low Pass Filter Disable
+
+**{ * } <Credit> :**
+Node Stereo By : [Skenzo](https://github.com/outpunching)
